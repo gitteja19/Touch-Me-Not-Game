@@ -104,8 +104,8 @@
 ## 👨‍💻 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)
+📧 saranteja319.work@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/saranteja319)
 
 ---
 
