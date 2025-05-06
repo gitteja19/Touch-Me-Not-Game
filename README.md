@@ -69,8 +69,7 @@
 ├── adcLib48.h/.c     # Joystick ADC interface
 ├── gpioLib.h/.c      # GPIO read/write macros
 ├── delayLib.h/.c     # Delay utilities
-├── types.h           # Basic type definitions
-└── Makefile          # (If applicable for build)
+└── types.h           # Basic type definitions
 ```
 
 ---
