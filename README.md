@@ -36,7 +36,7 @@
 - **Input**: Analog Joystick via ADC (A0.1 and A0.2)  
 - **Output**: 16x2 Character LCD (custom CGRAM sprites)  
 - **Language**: Embedded C  
-- **Tools**: Keil uVision / GCC ARM Toolchain
+- **Tools**: Keil 4 uVision IDE
 
 ---
 
