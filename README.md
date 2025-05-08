@@ -105,7 +105,7 @@
 
 **Your Name**  
 📧 saranteja319.work@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/saranteja319)
+🔗 [LinkedIn:saranteja319](https://linkedin.com/in/saranteja319)
 
 ---
 
